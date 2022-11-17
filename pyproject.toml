@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "plank-core"
-version = "0.1.0"
+version = "0.1.1"
 description = "The core function of plank."
 authors = ["Grady Zhuo <grady@ospark.org>"]
+license = "Apache License 2.0"
 
 packages = [
     { include = "plank" }
